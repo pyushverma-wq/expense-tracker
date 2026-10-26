@@ -22,7 +22,7 @@ Keep track of where your money goes, right from the terminal. This app lets you 
 
 ```bash
 # clone the repo
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/pyushverma-wq/expense-tracker.git
 cd expense-tracker
 
 # compile
