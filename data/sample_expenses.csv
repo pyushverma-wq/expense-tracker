@@ -1,0 +1,13 @@
+id,date,category,amount,note
+1,2026-09-28,FOOD,180.0,Dinner with friends
+2,2026-09-30,BILLS,799.0,Wifi bill
+3,2026-10-01,TRAVEL,120.0,Bus pass
+4,2026-10-03,FOOD,95.0,Breakfast at canteen
+5,2026-10-05,SHOPPING,899.0,Backpack
+6,2026-10-08,BILLS,599.0,Mobile recharge
+7,2026-10-10,TRAVEL,350.0,Train ticket home
+8,2026-10-12,FOOD,220.0,Pizza
+9,2026-10-15,OTHER,150.0,Printing notes
+10,2026-10-18,SHOPPING,1450.0,Headphones
+11,2026-10-22,FOOD,130.0,Lunch at cafe
+12,2026-10-25,TRAVEL,60.0,Auto fare
